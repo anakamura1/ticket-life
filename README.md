@@ -58,8 +58,8 @@ This tutorial outlines the help desk ticket lifecycle. It simulates the intake/c
 
 <img height="80%" width="80%"  alt="Screenshot 2025-01-09 at 1 07 38 PM" src="https://github.com/user-attachments/assets/2250bfde-a0cf-4fbf-a9c4-3cc86bebf5a2" />
 
-<p>Now as an agent we can acknowledge Karen's ticket and begin "working" it to completion.</p>
-
+<p>Now as an agent we can acknowledge Karen's ticket and begin "working" it to completion. We can first acknowledge the ticket by replying publicly to Karen</p>
+<p>Using the internal notes tab, we can submit notes where only the support team can see. This is helpful to have communication between agents on the progress of the ticket or new developments. </p>
 <br>
 
 <img height="80%" width="80%" alt="Screenshot 2025-01-09 at 1 16 18 PM" src="https://github.com/user-attachments/assets/9e6cd9a8-1c35-48c8-9b0f-bcb8da1cf11c" />
@@ -91,10 +91,14 @@ To simulate ticket intake via phone or email, we can navigate to tickets as an a
   </tr>
 </table>
 
-<p>We can submit replies to the ticket and "work" the ticket to resolution. As we learn more information about the ticket we can change various elements about the ticket like the SLA.
+<p>We can submit replies to the ticket and "work" the ticket to resolution. The ticket can be given a priority and it can be assigned to an agent. As we learn more information about the ticket we can change various elements about the ticket like the SLA.
 Instead of the entire department not being able to use Adobe we realize it is just 2 users, this prompts a change in the SLA. 
 </p>
 
-**There are lots of other things that can be done within osTicket so feel free to explore around to build more intuition with osTicket**
+<img width="645" alt="Screenshot 2025-01-09 at 1 45 00 PM" src="https://github.com/user-attachments/assets/7e271417-843e-437e-9d82-1b8dd805b379" />
+
+<p>Once we arrive at a resolution, we can change the status of the ticket at the top from "Open" to "Resolved". Hooray for ticket resolution!</p>
+
+**There are lots of other things that can be done within osTicket so feel free to explore around to build more intuition with osTicket.**
 
 **This conlcudes the Ticket Lifecycle lab!**
