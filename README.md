@@ -7,7 +7,7 @@
   <p>
 This tutorial outlines the help desk ticket lifecycle. It simulates the intake/creation of a ticket to the resolution of the ticket. osTicket will be used for this simulation.
 </p>
-  <br>
+
   <h2>Prerequisites</h2>
   <p>-Install osTicket www.github.com/anakamura1/osticket-prereqs</p>
   <p>-Configure osTicket www.github.com/anakamura1/osticket-post-install-config</p>
@@ -21,14 +21,6 @@ This tutorial outlines the help desk ticket lifecycle. It simulates the intake/c
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
-<h2>Ticket Lifecycle Objectives</h2>
-
-- 
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Configuration Steps</h2>
 <table>
@@ -46,7 +38,7 @@ This tutorial outlines the help desk ticket lifecycle. It simulates the intake/c
 <p>
   Begin by entering http://localhost/osTicket into the browser. This will bring us to the end user ticket creation page. Here we can submit a ticket as Karen. After the ticket is submitted, log in at http://localhost/osTicket/scp/login.php as agent John Doe. 
 </p>
-
+<br>
 <table>
   <tr>
     <td>
